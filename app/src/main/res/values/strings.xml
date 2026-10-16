@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GEMPAKU</string>
+    <string name="app_tagline">Pantau Gempa Real-Time Indonesia &amp; Dunia</string>
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_safety">Keselamatan</string>
+    <string name="nav_settings">Pengaturan</string>
+</resources>

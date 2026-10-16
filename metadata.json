@@ -1,0 +1,6 @@
+{
+  "name": "GEMPAKU",
+  "description": "Pemantauan gempa bumi real-time Indonesia (BMKG) dan global (USGS) dengan notifikasi, peta interaktif, status tsunami, dan panduan keselamatan darurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
